@@ -13,5 +13,7 @@ Low voltage solar/wind/ other generator hybrid charge controller -  power condit
 <br> The plan is to regenerate over-discharged batteries with renewable energy. We find a lot of 18650s in the e-waste bins.
 <br> We made a large input voltage range to allow for many different types of generators; specifically we wanted to design for e-waste motors and other discarded materials (e.g. magnets from harddrives and copper wire from old relays) to be reconditioned into wind generators. 
 
+PCB manufactured by PCBway. SMD components reflow soldered on standard kitchen hotplate with low temperature solder paste. 
+
 <br> A massive thanks to Urs Gaudenz GaudiLabs for the support, assistance and motivation in designing these 2 (my first 2) PCBs. 
 
