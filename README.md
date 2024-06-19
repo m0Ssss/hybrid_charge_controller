@@ -15,7 +15,6 @@ https://regenerative-energy-communities.org/
 https://solarinternet.org/
 
 Check out the latter for documentation on the low energy server side of things. 
-
 <br> <br> space for both 18650 batteries or LIPO with JST connector;
 <br> The plan is to regenerate over-discharged batteries with renewable energy. We find a lot of 18650s in the e-waste bins.
 <br> We made a large input voltage range to allow for many different types of generators; specifically we wanted to design for e-waste motors and other discarded materials (e.g. magnets from harddrives and copper wire from old relays) to be reconditioned into wind generators. 
