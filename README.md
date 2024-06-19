@@ -1,4 +1,4 @@
-# hybrid_charge_controller development board version 1 and (energy meadow) version 2 
+# hybrid_charge_controller development board version 1 and (energy meadow) version 2 *Work In Progress* 
 Low voltage solar/wind/ other generator hybrid charge controller -  power conditioning circuit development board, and version 2 with built in charger. 
 <br>MPPT (Maximum Power point tracking) using ST's SPV1040 IC
 <br> 0v charging function to regenerate over-discharged batteries that can no longer be charged with conventional chargers. 
